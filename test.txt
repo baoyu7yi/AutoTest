@@ -3,3 +3,5 @@
 <<<<<<< HEAD
 这个master分支上的内容·
 版本 version1
+版本 version2
+
